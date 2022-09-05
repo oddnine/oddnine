@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://9hyuk9.tistory.com/"/></a>
+<a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://9hyuk9.tistory.com/"/></a>
 
 </div>
 
