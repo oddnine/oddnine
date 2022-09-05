@@ -11,9 +11,13 @@
 
 ## 💻 Dev log</br>
 
+<div align="center">
+
 [![oddnine's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oddnine&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/oddnine)
   <br/>
 ![oddnine's github stats](https://github-readme-stats.vercel.app/api?username=oddnine&show_icons=true)
 <br/>
+
+</div>
 
 </div>
