@@ -7,7 +7,12 @@
 </div>
 
 ## 📝 Project
+**School Project**
 - [지도 기반 챗봇 SNS 팀 프로젝트]( https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
+
+**Simple Project**
+
+- [C언어 도서 관리 토이 프로그램] (https://github.com/oddnine/Book_Management_Program_C)
 
 ## 💻 Dev log</br>
 
