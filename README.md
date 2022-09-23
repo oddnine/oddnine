@@ -7,7 +7,7 @@
 </div>
 
 ## 📝 Project
-**School Project**
+**Big Project**
 - [👥[자바/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트]( https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
 
 **Toy Project**
