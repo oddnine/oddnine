@@ -1,12 +1,47 @@
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddnine&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+ <h1> 😁 혁키 😁 </h1>
 
-<a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://9hyuk9.tistory.com/"/></a>
+ 
+ <p/>
+<a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/tistory-db6800?style=flat-square&logo=tistory&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+ <p/>
+
+
+  <br>
+  
+ <p>안녕하세요!</p>
+<p>저는 스프링 백엔드를 공부하고 있는 학생입니다.</p>
+
+</div>
+
+<div align="center">
+
+#
+
+<h3>🔥 Tech Stack 🔥</h3>
+<p><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-0000FF?style=flat-square&logo=python&logoColor=white"/></p>
+  
+<p><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/flask-red?style=flat&logo=flask&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
+</p>
+
+<p><img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;</p>
+
+<p><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></p>
 
 </div>
 
 ## 📝 Project
+
 **Big Project**
 - [👥[자바/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트 '젤리'](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
 
@@ -18,15 +53,6 @@
 
 - [👤[자바/Swing] 매장 관리형 키오스크 '떡상'](https://github.com/oddnine/Kiosk_Application_JAVA-Window_Builder)
 
-## 💻 Dev log</br>
-
-<div align="center">
-
-[![oddnine's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oddnine&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/oddnine)
-  <br/>
-![oddnine's github stats](https://github-readme-stats.vercel.app/api?username=oddnine&show_icons=true)
-<br/>
-
 </div>
 
-</div>
+
