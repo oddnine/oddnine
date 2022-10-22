@@ -23,9 +23,10 @@
 #
 
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/java-007396?style=flat=java&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat=C Sharp&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python-0000FF?style=flat=python&logoColor=white"/></p>
+<p>
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-0000FF?style=flat&logo=python&logoColor=white"/></p>
   
 <p><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;
