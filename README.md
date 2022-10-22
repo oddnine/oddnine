@@ -6,8 +6,8 @@
 
  
  <p/>
-<a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/tistory-db6800?style=flat-square&logo=tistory&logoColor=white"/>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/tistory-db6800?style=flat&logo=tistory&logoColor=white"/>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
  <p/>
 
 
@@ -23,14 +23,14 @@
 #
 
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python-0000FF?style=flat-square&logo=python&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/java-007396?style=flat=java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat=C Sharp&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-0000FF?style=flat=python&logoColor=white"/></p>
   
-<p><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;
+<p><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/flask-red?style=flat&logo=flask&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
 </p>
 
