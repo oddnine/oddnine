@@ -44,7 +44,8 @@
 ## 📝 Project
 
 **Big Project**
-- [👥[자바/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트 '젤리'](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
+- [👥[Python/Spring/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트 '젤리'](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
+- [👥[Spring/HTML/안드로이드] 독거노인 케어 프로그램 'SISO' (개발 중)](https://github.com/senior-management-application-SISO/SISO.git)
 
 **Toy Project**
 
