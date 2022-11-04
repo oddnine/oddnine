@@ -31,6 +31,7 @@
 <p><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/flask-red?style=flat&logo=flask&logoColor=white"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/android-005F0F?style=flat&logo=android&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
 </p>
