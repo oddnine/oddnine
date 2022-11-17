@@ -40,9 +40,12 @@
 <p>
  <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/MyBatis-black?style=flat&logo=MyBatis&logoColor=white"/>&nbsp;&nbsp;
+
  </p>
 
-<p><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></p>
+<p><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws&logoColor=black"/></p>
 
 </div>
 
@@ -50,7 +53,7 @@
 
 **Big Project**
 - [👥[Python/Spring/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트 '젤리'](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
-- [👥[Spring/HTML/안드로이드] 독거노인 케어 프로그램 'SISO' (개발 중)](https://github.com/senior-management-application-SISO/SISO.git)
+- [👥[Spring/HTML/안드로이드] 독거노인 케어 프로그램 'SISO'](https://github.com/senior-management-application-SISO/SISO.git)
 
 **Toy Project**
 
