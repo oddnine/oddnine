@@ -1,8 +1,6 @@
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddnine&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
-
 <div align="center">
 
- <h1> 😁 혁키 😁 </h1>
+ <h1> 🎈 혁키 🎈 </h1>
 
  
  <p/>
@@ -16,7 +14,14 @@
   
  <p>안녕하세요!</p>
 <p>저는 스프링 백엔드를 공부하고 있는 학생입니다.</p>
+    
+<div>
+     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddnine&layout=compact&theme=tokyonight)&nbsp;&nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jh0902)](https://solved.ac/jh0902)
 
+</div>
+ 
 </div>
 
 <div align="center">
