@@ -62,11 +62,6 @@
 - [👥[Spring/HTML/안드로이드] 독거노인 케어 프로그램 'SISO'](https://github.com/senior-management-application-SISO/SISO.git)
 
 **Toy Project**
-
-- [👤[Spring] 아파트 실거래가 조회 'HowMuchMyHouse'](https://github.com/oddnine/HowMuchMyHouse)
-
 - [👥[C언어] 도서 관리 토이 프로그램](https://github.com/oddnine/Book_Management_Program_C)
-
-- [👤[자바/Swing] 매장 관리형 키오스크 '떡상'](https://github.com/oddnine/Kiosk_Application_JAVA-Window_Builder)
 
 </div>
