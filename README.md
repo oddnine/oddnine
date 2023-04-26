@@ -58,9 +58,9 @@
 ## 📝 Project
 
 **Big Project**
-- [👥[Python/Spring/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트 '젤리'](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
-- [👥[Spring/HTML/안드로이드] 독거노인 케어 프로그램 'SISO'](https://github.com/senior-management-application-SISO/SISO.git)
 - [👥[Spring/HTML] 모델을 사용하는 카 쉐어링 플랫폼 '안심카'](https://github.com/AnsimCar/asc-spring-server)
+- [👥[Spring/HTML/안드로이드] 독거노인 케어 프로그램 'SISO'](https://github.com/senior-management-application-SISO/SISO.git)
+- [👥[Python/Spring/안드로이드] 지도 기반 챗봇 SNS 팀 프로젝트 '젤리'](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
 
 **Toy Project**
 - [👥[C언어] 도서 관리 토이 프로그램](https://github.com/oddnine/Book_Management_Program_C)
