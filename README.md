@@ -5,8 +5,7 @@
  
  <p/>
 <a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/tistory-db6800?style=flat&logo=tistory&logoColor=white"/>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
-   <a href="https://local-care-745.notion.site/540727f4bd3b4e6e843af98aa55105c3"><img src="https://img.shields.io/badge/resume-white?style=flat&logo=notion&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
  <p/>
 
 
