@@ -7,8 +7,6 @@
 <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9A%B0-93024b245/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <p/>
 
-<p>안녕하세요!</p>
-<p>저는 스프링 백엔드를 공부하고 있는 학생입니다.</p>
 <div>
      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddnine&layout=compact&theme=tokyonight)&nbsp;&nbsp;
