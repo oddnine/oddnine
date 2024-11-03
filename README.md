@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 🎈 혁키 🎈 </h1>
+<h1>혁키</h1>
 
 <p/>
 <a href="https://9hyuk9.tistory.com/"><img src="https://img.shields.io/badge/tistory-db6800?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp;&nbsp;
